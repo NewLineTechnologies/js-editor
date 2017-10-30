@@ -1,0 +1,28 @@
+body {
+  padding-top: 25px;
+}
+
+#content {
+  margin: 0 auto;
+  width: 700px;
+}
+
+#editor {
+  width: 700px;
+  height: 400px;
+}
+
+#output, #errors, #inputs {
+  padding: 10px 20px 10px 0px;
+  width: 700px;
+}
+
+#output {
+  background: #00c0ef;
+  color: #fff;
+}
+
+#errors {
+  color: #FF0000;
+  background: #FFF0F0;
+}
